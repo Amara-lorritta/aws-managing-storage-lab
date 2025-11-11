@@ -21,7 +21,7 @@ Sync files between an EBS volume and an S3 bucket.
 Enable and use S3 versioning to recover deleted files.
 
 ## **Architecture Diagram**
-<img width="1024" height="700" alt="2c48745e-5dc6-49ad-aa26-574caaf6aa70" src="https://github.com/user-attachments/assets/fbab9f57-0584-43a0-b476-09e7032bb8c8" />
+<img width="1024" height="400" alt="2c48745e-5dc6-49ad-aa26-574caaf6aa70" src="https://github.com/user-attachments/assets/fbab9f57-0584-43a0-b476-09e7032bb8c8" />
 
 Description:
 
